@@ -11,9 +11,6 @@ public class main {
 			x = sc.next();
 			System.out.println("Voce digitou: " + x);
 			
-	
-	
-	
 			sc.close();
 		}
 
